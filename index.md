@@ -25,3 +25,9 @@ AND (
 )
 ```
 The above SQL should provide the analysis that the Chairman desires.
+
+- [x] Demonstrate header usage
+- [x] Praise the Chairman
+- [x] Provide a cogent analysis of previous revolutions, concurring with the wise Chairman's analysis of the current material conditions
+- [ ] ???
+- [ ] Win the revolution
